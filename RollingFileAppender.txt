@@ -1,0 +1,65 @@
+2023-05-07 11:23:35,541 INFO [iQuest.VendingMachine.VendingMachineApplication] - The application has been opened
+2023-05-07 11:24:23,812 INFO [iQuest.VendingMachine.VendingMachineApplication] - The application has been opened
+2023-05-07 11:24:29,384 INFO [iQuest.VendingMachine.VendingMachineApplication] - The user has chosen the buy command
+2023-05-07 11:24:39,400 INFO [iQuest.VendingMachine.VendingMachineApplication] - The user has chosen the look command
+2023-05-07 11:24:46,432 INFO [iQuest.VendingMachine.VendingMachineApplication] - The user has chosen the buy command
+2023-05-07 11:24:53,467 INFO [iQuest.VendingMachine.VendingMachineApplication] - The user has chosen the look command
+2023-05-07 12:18:39,180 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\VendingMachineApplication.cs] - The application has been opened
+2023-05-07 12:18:41,015 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\VendingMachineApplication.cs] - The user has chosen the buy command
+2023-05-07 14:14:45,123 INFO [iQuest.VendingMachine.VendingMachineApplication] - The application has been opened
+2023-05-07 14:14:48,154 INFO [iQuest.VendingMachine.VendingMachineApplication] - The user has chosen the buy command
+2023-05-07 14:14:55,620 ERROR [] - InvalidColumn
+2023-05-07 14:14:55,796 ERROR [iQuest.VendingMachine.VendingMachineApplication] - The selected column is: 10 and it is invalid! Please try again!
+2023-05-07 14:30:27,033 INFO [] - Look UseCase
+2023-05-07 14:30:34,998 INFO [] - Buy UseCase
+2023-05-07 14:30:38,331 INFO [] - Payment UseCase
+2023-05-07 14:30:49,269 INFO [] - Login UseCase
+2023-05-07 14:31:24,740 INFO [] - Supply UseCase
+2023-05-07 14:31:29,697 INFO [] - Logout UseCase
+2023-05-07 14:31:33,181 INFO [] - Look UseCase
+2023-05-07 14:37:17,988 INFO [] - The application has been opened
+2023-05-07 14:37:19,970 INFO [] - The user has chosen the buy command
+2023-05-07 14:37:21,018 INFO [] - Buy UseCase
+2023-05-07 14:37:23,591 ERROR [] - InvalidColumn
+2023-05-07 14:37:23,703 ERROR [] - The selected column is: 4 and it is invalid! Please try again!
+2023-05-07 14:40:18,487 INFO [iQuest.VendingMachine.LogHelper] - The application has been opened
+2023-05-07 14:40:20,217 INFO [iQuest.VendingMachine.LogHelper] - The user has chosen the buy command
+2023-05-07 14:40:21,316 INFO [iQuest.VendingMachine.LogHelper] - Buy UseCase
+2023-05-07 14:40:22,864 ERROR [iQuest.VendingMachine.LogHelper] - InvalidColumn
+2023-05-07 14:40:22,973 ERROR [iQuest.VendingMachine.LogHelper] - The selected column is: 4 and it is invalid! Please try again!
+2023-05-07 14:45:52,382 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\LogHelper.cs] - The application has been opened
+2023-05-07 14:45:54,802 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\LogHelper.cs] - The user has chosen the buy command
+2023-05-07 14:45:55,923 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\LogHelper.cs] - Buy UseCase
+2023-05-07 14:45:57,184 ERROR [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\LogHelper.cs] - InvalidColumn
+2023-05-07 14:45:57,291 ERROR [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\LogHelper.cs] - The selected column is: 5 and it is invalid! Please try again!
+2023-05-07 14:55:56,133 INFO [] - The application has been opened
+2023-05-07 14:55:58,375 INFO [] - The user has chosen the buy command
+2023-05-07 14:55:59,523 INFO [] - Buy UseCase
+2023-05-07 14:56:00,925 ERROR [] - InvalidColumn
+2023-05-07 14:56:01,030 ERROR [] - The selected column is: 5 and it is invalid! Please try again!
+2023-05-07 15:00:00,745 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\VendingMachineApplication.cs] - The application has been opened
+2023-05-07 15:00:02,744 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\VendingMachineApplication.cs] - The user has chosen the buy command
+2023-05-07 15:00:03,876 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\UseCases\BuyUseCase.cs] - Buy UseCase
+2023-05-07 15:00:04,680 ERROR [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\UseCases\BuyUseCase.cs] - InvalidColumn
+2023-05-07 15:00:04,783 ERROR [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\VendingMachineApplication.cs] - The selected column is: 10 and it is invalid! Please try again!
+2023-05-07 15:02:23,561 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\VendingMachineApplication.cs] - The application has been opened
+2023-05-07 15:02:26,879 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\VendingMachineApplication.cs] - The user has chosen the look command
+2023-05-07 15:02:27,891 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\UseCases\LookUseCase.cs] - Look UseCase
+2023-05-07 15:15:49,776 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\VendingMachineApplication.cs] - The application has been opened
+2023-05-07 15:46:21,218 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\VendingMachineApplication.cs] - The application has been opened
+2023-05-07 15:46:22,728 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\VendingMachineApplication.cs] - The user has chosen the buy command
+2023-05-07 15:46:23,843 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\UseCases\BuyUseCase.cs] - Buy UseCase
+2023-05-07 15:46:25,592 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\UseCases\PaymentUseCase.cs] - Payment UseCase
+2023-05-07 15:46:30,535 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\VendingMachineApplication.cs] - The user has chosen the look command
+2023-05-07 15:46:30,538 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\UseCases\LookUseCase.cs] - Look UseCase
+2023-05-07 15:47:33,748 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\VendingMachineApplication.cs] - The application has been opened
+2023-05-07 15:47:35,314 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\VendingMachineApplication.cs] - The user has chosen the buy command
+2023-05-07 15:47:36,421 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\UseCases\BuyUseCase.cs] - Buy UseCase
+2023-05-07 15:47:38,461 ERROR [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\UseCases\BuyUseCase.cs] - InvalidColumn
+2023-05-07 15:47:38,561 ERROR [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\VendingMachineApplication.cs] - The selected column is: 100 and it is invalid! Please try again!
+2023-05-07 15:55:56,249 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\VendingMachineApplication.cs] - The application has been opened
+2023-05-07 15:55:57,769 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\VendingMachineApplication.cs] - The user has chosen the buy command
+2023-05-07 15:55:58,804 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\UseCases\BuyUseCase.cs] - Buy UseCase
+2023-05-07 15:56:01,922 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\UseCases\PaymentUseCase.cs] - Payment UseCase
+2023-05-07 15:56:06,910 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\VendingMachineApplication.cs] - The user has chosen the look command
+2023-05-07 15:56:06,913 INFO [C:\Users\User\source\repos\Nagarro-Claudia-Curca\VendMachine\VendingMachine\UseCases\LookUseCase.cs] - Look UseCase
